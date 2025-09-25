@@ -32,12 +32,12 @@ const char* topic_ampere = "stick/0001/ampere";
 
 const char* mqtt_server = "54.169.178.246";
 const int mqtt_port = 1883;
-const char* mqtt_user = "iotuser";
-const char* mqtt_pass = "Password123#";
+const char* mqtt_user = "******";
+const char* mqtt_pass = "******";
 
 // Koneksi WiFi
 const char* ssid = "Afz";
-const char* password = "totskuy1";
+const char* password = "*****";
 
 // ========== Variabel Global ==========
 bool emergencySent = false;
